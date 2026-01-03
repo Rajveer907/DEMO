@@ -1,4 +1,4 @@
 # DEMO
 DEMO REPO FOR LEARN 
 <br>
-AUTHOR - RAJ
+AUTHOR - RAJ Rathod 
